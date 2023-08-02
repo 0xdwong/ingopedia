@@ -1,0 +1,27 @@
+# 承诺方案
+
+- **通用**
+  - [承诺方案概述：Justin Drakes](https://youtu.be/bz16BURH_u8)
+  - [承诺方案比较](https://hackernoon.com/kzg10-ipa-fri-and-darks-analysis-of-polynomial-commitment-schemes)
+  - [多项式承诺方案评审](https://research.polytope.technology/polynomial-commitments?utm_source=substack&utm_medium=email)
+- **KZG**
+  - [KZG承诺](https://alinush.github.io/2020/05/06/kzg-polynomial-commitments.html)
+  - [KZG - Suyash](https://hackmd.io/@suyash67/BydEa7DaK)
+  - [多项式承诺 - Dankrad Feist](https://dankradfeist.de/ethereum/2020/06/16/kate-polynomial-commitments.html)
+    - [如何在证明中使用KZG](https://notes.ethereum.org/@dankrad/kzg_commitments_in_proofs#)
+    - [快速KZG证明](https://alinush.github.io/2021/06/17/Feist-Khovratovich-technique-for-computing-KZG-proofs-fast.html)
+    - [分摊KZG - Feist Khovratovich](https://eprint.iacr.org/2023/033.pdf)
+    - [向量与Toeplitz矩阵相乘](https://alinush.github.io/2020/03/19/multiplying-a-vector-by-a-toeplitz-matrix.html)
+    - [PCS多证明 - Feist](https://dankradfeist.de/ethereum/2021/06/18/pcs-multiproofs.html)
+    - [具有紧密的信标和分片块集成的新分片设计 - Dankrad Feist](https://notes.ethereum.org/@dankrad/new_sharding#)
+    - [Protodanksharding - FAQ Vitalik](https://notes.ethereum.org/@vbuterin/proto_danksharding_faq#What-is-Danksharding)
+  - [数据可用性抽样的通用验证方程](https://ethresear.ch/t/a-universal-verification-equation-for-data-availability-sampling/13240)
+  - [KZG友好曲线：El Housseini](https://ethresear.ch/t/yet-another-curve-but-the-curve-for-your-kzg/12861)
+  - [KZG在实践中：Scroll](https://scroll.io/blog/kzg#heading-0)
+- **向量承诺**
+  - [Verkle Trie - Dankrad Feist](https://dankradfeist.de/ethereum/2021/06/18/verkle-trie-for-eth1.html)
+  - [可聚合的向量子承诺](https://alinush.github.io/2020/05/06/aggregatable-subvector-commitments-for-stateless-cryptocurrencies.html#aggregating-proofs-into-subvector-profs)
+  - [Catalano-Fiore向量承诺](https://alinush.github.io/2020/11/24/Catalano-Fiore-Vector-Commitments.html)
+- **内积论证（IPA）**
+  - [内积论证 - Dankrad Feist](https://dankradfeist.de/ethereum/2021/07/27/inner-product-arguments.html)
+  - [手动进行的IPA - arnacube](https://arnaucube.com/blog/ipa.html)

@@ -1,14 +1,14 @@
 [book]
 authors = ["Ingonyama"]
-language = "en"
+language = "ch"
 multilingual = false
-src = "src"
+src = "zh"
 title = "Ingopedia"
 
 [output.html]
 curly-quotes = true
-git-repository-url = "https://github.com/ingonyama-zk/ingopedia"
-edit-url-template = " https://github.com/ingonyama-zk/ingopedia/edit/master/{path}"
+git-repository-url = "https://github.com/0xdwong/ingopedia"
+edit-url-template = " https://github.com/0xdwong/ingopedia/edit/master/{path}"
 
 [output.html.print]
 page-break = false

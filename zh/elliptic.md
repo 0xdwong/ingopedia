@@ -1,0 +1,58 @@
+# 椭圆曲线
+
+## 概述
+
+- [ECC密码书](https://cryptobook.nakov.com/asymmetric-key-ciphers/elliptic-curve-cryptography-ecc)
+- [有限域上的曲线 - 讲座](https://www.youtube.com/watch?v=QrTLOK7evr0&list=PLYpVTXjEi1of_6j2oUEAqOo8eLI5qws8i)
+- [华盛顿的椭圆曲线第4章](http://koclab.cs.ucsb.edu/teaching/ecc/eccPapers/Washington-ch04.pdf)
+- [椭圆曲线：麻省理工学院讲座](https://math.mit.edu/classes/18.783/2017/lectures.html)
+- [Corbellini - ECC](https://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/)
+- [ECC入门](https://blog.cloudflare.com/a-relatively-easy-to-understand-primer-on-elliptic-curve-cryptography/)
+- [Silverman - ECC演讲](https://www.math.brown.edu/johsilve/Presentations/WyomingEllipticCurve.pdf)
+- [具有高效内部同态的椭圆曲线上的更快点乘](http://link.springer.com/10.1007/3-540-44647-8_11)
+- [Solinas - Koblitz曲线上的高效算术](https://www.semanticscholar.org/paper/Efficient-Arithmetic-on-Koblitz-Curves-Solinas/3dbc0ef67ad65778e24807a9e898b00cf046df8a)
+- [Koblitz曲线密码系统](https://www.sciencedirect.com/science/article/pii/S1071579704000395)
+- [椭圆曲线密码系统（Koblitz曲线）](https://evervault.com/papers/koblitz.pdf)
+- [寻找具有给定大小子群的椭圆曲线的算法](https://arxiv.org/abs/1403.7887)
+- [椭圆曲线数论与密码学](https://people.cs.nctu.edu.tw/~rjchen/ECC2012S/Elliptic%20Curves%20Number%20Theory%20And%20Cryptography%202n.pdf)
+- [椭圆曲线算术 - 曲线加法 - Doche-Lange](http://koclab.cs.ucsb.edu/teaching/ecc/eccPapers/DocheLange-ch13.pdf)
+- [椭圆曲线算术 - 曲线指数运算 - Doche Lange](http://koclab.cs.ucsb.edu/teaching/ecc/eccPapers/Doche-ch09.pdf)
+- [特征为2或3的椭圆曲线 - John Cook](https://dzone.com/articles/all-elliptic-curves-over-fields-of-order-2-and-3)
+- [加法/倍增公式](https://www.hyperelliptic.org)
+- [可视化椭圆曲线](https://curves.xargs.org)
+- [曲线的j不变量](https://math.mit.edu/research/highschool/primes/materials/2018/conf/14-2%20Pentland.pdf)
+- [BLS12中的子群检查](https://hackmd.io/@yelhousni/bls12_subgroup_check)
+- [完整的加法公式：Bernstein - Lange](http://cr.yp.to/talks/2009.04.17/slides.pdf)
+- [素数阶曲线的完整加法公式](https://eprint.iacr.org/2015/1060.pdf)
+  - [使用Montgomery乘法器的完整公式的FPGA实现](https://eprint.iacr.org/2016/1133)
+- [用于证明系统的椭圆曲线调查](https://eprint.iacr.org/2022/586.pdf)
+- [Edwards曲线](https://hal.archives-ouvertes.fr/hal-01942759/document)
+- [Twisted Edwards曲线](https://eprint.iacr.org/2008/013.pdf)
+- [BLS12的子群检查](https://hackmd.io/@yelhousni/bls12_subgroup_check)
+- [因子解释：椭圆曲线的小秘密](https://loup-vaillant.fr/tutorials/cofactor)
+- [在密码学中应用Riemann-Roch定理 - Borgeaud](https://solvable.group/posts/riemann-roch-crypto/)
+
+## 配对
+
+- [初学者的配对 - Craig Costello](https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff394720493bd28278889c6/1609798774687/PairingsForBeginners.pdf)
+- [配对 - Vitalik Buterin](https://medium.com/@VitalikButerin/exploring-elliptic-curve-pairings-c73c1864e627)
+- [配对友好曲线](https://members.loria.fr/AGuillevic/pairing-friendly-curves/)
+- [重新审视配对实现](https://eprint.iacr.org/2019/077.pdf)
+- [Groth_Sahai证明并不可怕](https://crypto.ethereum.org/blog/groth-sahai-blogpost)
+- [密码学中的双线性配对 - Dennis Meffert](https://www.math.ru.nl/~bosma/Students/MScThesis_DennisMeffert.pdf)
+- [配对和多项式承诺 - David Wong](https://cryptologie.net/article/525/pairing-based-polynomial-commitments-and-kate-polynomial-commitments/)
+- [Circom配对](https://0xparc.org/blog/zk-pairing-1)
+  - [代码](https://github.com/yi-sun/circom-pairing)
+- [配对或双线性映射](https://alinush.github.io/2022/12/31/pairings-or-bilinear-maps.html)
+- [优化模拟配对](https://hackmd.io/@ivokub/SyJRV7ye2)
+
+## 特定曲线
+
+- [BLS12-381对于我们其他人](https://hackmd.io/mikF5LkFQoqXM1EuplRj2Q)
+- [BN254对于我们其他人](https://hackmd.io/@jpw/bn254)
+- [基于配对友好椭圆曲线库的基准测试](https://hackmd.io/2JH4uBFCTbehqorEzQxv9w)
+- [ecgfp5 - Pornin: Goldilocks](https://github.com/pornin/ecgfp5/blob/main/doc/ecgfp5.pdf)
+  - [ed448博客 John Cook](https://www.johndcook.com/blog/2019/05/12/ed448-goldilocks/)
+- [深入探究ed25519](https://cendyne.dev/posts/2022-03-06-ed25519-signatures.html)
+- [Pasta曲线 - Electric coin](https://electriccoin.co/blog/the-pasta-curves-for-halo-2-and-beyond/)
+- [构建应用特定曲线的开发者指南](https://solutions.chainsafe.io/blog/application-specific-curves/)

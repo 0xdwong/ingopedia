@@ -1,32 +1,4 @@
-# SNARK协议
-
-{/*try-react*/}
-
-SNARK（Succinct Non-interactive ARguments of Knowledge）协议是一种用于验证计算结果的协议。它允许一个实体（通常是一个计算机程序）证明它拥有某个特定的计算结果，而无需透露计算的细节。SNARK协议具有高度的可压缩性和非交互性，使其在许多应用中具有广泛的用途。
-
-## SNARK的工作原理
-
-SNARK协议的核心思想是将计算结果转化为一种形式，使得验证者可以在不执行实际计算的情况下验证结果的正确性。这种转化通常涉及将计算结果转化为一组多项式，并生成一个证明，证明者可以使用该证明来证明计算结果的正确性。
-
-SNARK协议的验证过程通常包括以下步骤：
-
-1. **生成证明（Prover）**：证明者根据计算结果生成一个证明，该证明包含了计算结果的摘要信息。
-2. **验证证明（Verifier）**：验证者使用证明者提供的证明来验证计算结果的正确性。验证者不需要执行实际计算，只需验证证明的有效性即可。
-3. **证明的可验证性**：SNARK协议确保验证者可以在非交互的情况下验证证明的正确性。这意味着验证者不需要与证明者进行实时的交互。
-
-## SNARK的应用领域
-
-SNARK协议在许多领域都有广泛的应用，包括但不限于以下几个方面：
-
-- **密码学**：SNARK协议可以用于构建零知识证明系统，实现匿名性和隐私保护。
-- **区块链**：SNARK协议可以用于构建可验证的计算系统，实现区块链上的隐私保护和可扩展性。
-- **云计算**：SNARK协议可以用于验证云计算中的计算结果，确保云服务提供商的计算结果的正确性。
-- **数据隐私**：SNARK协议可以用于验证数据隐私协议的执行情况，确保数据隐私的保护。
-
-SNARK协议的可压缩性和非交互性使其成为许多领域中的重要工具，为计算结果的验证提供了高效和安全的解决方案。
-
-{/*try-react*/}
-
+# SNARK 协议
 
 |Protocols|Paper|Implementation |Resources |Universal|Transparent|
 |:---:|---|:---:|:---:|:---:|:---:|
@@ -41,7 +13,7 @@ SNARK协议的可压缩性和非交互性使其成为许多领域中的重要工
 |xjSNARK - 2018|[ →📝](https://akosba.github.io/papers/xjsnark.pdf)|  | |❌|❌|
 |Hyrax - 2018|[ →📝](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8418646)| | | | | | 
 |Sonic - 2019|[ →📝](https://eprint.iacr.org/2019/099.pdf)| |[Benthams Gaze](https://www.benthamsgaze.org/2019/02/07/introducing-sonic-a-practical-zk-snark-with-a-nearly-trustless-setup/)|✅|❌|
-|Plonk - 2019|[ →📝](https://eprint.iacr.org/2019/953.pdf)|<ul><li>heliaxdev[[1]](https://github.com/heliaxdev/plonk)</li><li>kobigurk[[2]](https://github.com/kobigurk/plonk/tree/kobigurk/port_to_zexe)</li><li>ZK-Garage[[3]](https://github.com/ZK-Garage/plonk)</li><li>dusk-network[[4]](https://github.com/dusk-network/plonk)</li><li>Jellyfish (Includes Plookup)[[5]](https://github.com/EspressoSystems/jellyfish)|<ul><li>Plonk high level summary[[1]](https://www.smartcontractresearch.org/t/research-summary-plonk-permutations-over-lagrange-bases-for-oecumenical-noninteractive-arguments-of-knowledge/382)</li><li>Talk: Ariel Gabizon[[2]](https://www.youtube.com/watch?v=dHo56MhQlHk)</li><li>Talk: Zac Williamson[[3]](https://www.youtube.com/watch?v=ty-LZf0YCK0) </li><li>Understanding Plonk - Vitalik[[4]](https://vitalik.ca/general/2019/09/22/plonk.html)</li><li>From AIRs to RAPs - how PLONK-style arithmetization works[[5]](https://hackmd.io/@aztec-network/plonk-arithmetiization-air#How-does-all-this-relate-to-R1CS)</li><li>Custom gates on plonk -Do whatever[[7]](https://kobi.one/2021/05/20/plonk-custom-gates.html)</li><li>Plonk Cafe[[8]](https://www.plonk.cafe/top)</li><li>Plonk: Anatomy of a proof generation: Scroll[[9]](https://scroll.io/blog/proofGeneration#heading-22)</li><li>Resource: Plonk by hand -1 Metastate[[10.1]](https://research.metastate.dev/plonk-by-hand-part-1/)</li><li>Resource: Plonk by hand -2 Metastate[[10.2]](https://research.metastate.dev/plonk-by-hand-part-2-the-proof/)</li><li>Resource: Plonk by hand -3 Metastate[[10.3]](https://research.metastate.dev/plonk-by-hand-part-3-verification/) </li><li>Resource: Plonk and Plookup Metastate[[10.4]](https://research.metastate.dev/on-plonk-and-plookup/)</li><li>Turboplonk[[11]](https://docs.zkproof.org/pages/standards/accepted-workshop3/proposal-turbo_plonk.pdf)</li><li>Custom gates in plonk[[12]](https://www.plonk.cafe/t/details-of-custom-gate/122)</li><li>Plonk: Thomas Piellard[[13]](https://hackmd.io/@gnark/plonk)</li><li>ZKP intro to Plonk - Star Li[[14]](https://trapdoortech.medium.com/zkp-plonk-algorithm-introduction-834556a32a)</li><li>Multi set checks in Plonk and Plookup: Gabizon[[15]](https://hackmd.io/@arielg/ByFgSDA7D)</li><li>Plonk - Kimchi: Mina Protocol[[16.1]](https://eng-blog.o1labs.org/posts/plonk/)</li><li>Kimchi[[16.2]](https://minaprotocol.com/blog/kimchi-the-latest-update-to-minas-proof-system)</li><li>Plonk not a monad tutorial[[17]](https://blog.lambdaclass.com/all-you-wanted-to-know-about-plonk/?utm_source=substack&utm_medium=email)|✅|❌|
+|Plonk - 2019|[ →📝](https://eprint.iacr.org/2019/953.pdf)|<ul><li>heliaxdev[[1]](https://github.com/heliaxdev/plonk)</li><li>kobigurk[[2]](https://github.com/kobigurk/plonk/tree/kobigurk/port_to_zexe)</li><li>ZK-Garage[[3]](https://github.com/ZK-Garage/plonk)</li><li>dusk-network[[4]](https://github.com/dusk-network/plonk)</li><li>Jellyfish (Includes Plookup)[[5]](https://github.com/EspressoSystems/jellyfish)</ul>|<ul><li>Plonk high level summary[[1]](https://www.smartcontractresearch.org/t/research-summary-plonk-permutations-over-lagrange-bases-for-oecumenical-noninteractive-arguments-of-knowledge/382)</li><li>Talk: Ariel Gabizon[[2]](https://www.youtube.com/watch?v=dHo56MhQlHk)</li><li>Talk: Zac Williamson[[3]](https://www.youtube.com/watch?v=ty-LZf0YCK0) </li><li>Understanding Plonk - Vitalik[[4]](https://vitalik.ca/general/2019/09/22/plonk.html)</li><li>From AIRs to RAPs - how PLONK-style arithmetization works[[5]](https://hackmd.io/@aztec-network/plonk-arithmetiization-air#How-does-all-this-relate-to-R1CS)</li><li>Custom gates on plonk -Do whatever[[7]](https://kobi.one/2021/05/20/plonk-custom-gates.html)</li><li>Plonk Cafe[[8]](https://www.plonk.cafe/top)</li><li>Plonk: Anatomy of a proof generation: Scroll[[9]](https://scroll.io/blog/proofGeneration#heading-22)</li><li>Resource: Plonk by hand -1 Metastate[[10.1]](https://research.metastate.dev/plonk-by-hand-part-1/)</li><li>Resource: Plonk by hand -2 Metastate[[10.2]](https://research.metastate.dev/plonk-by-hand-part-2-the-proof/)</li><li>Resource: Plonk by hand -3 Metastate[[10.3]](https://research.metastate.dev/plonk-by-hand-part-3-verification/) </li><li>Resource: Plonk and Plookup Metastate[[10.4]](https://research.metastate.dev/on-plonk-and-plookup/)</li><li>Turboplonk[[11]](https://docs.zkproof.org/pages/standards/accepted-workshop3/proposal-turbo_plonk.pdf)</li><li>Custom gates in plonk[[12]](https://www.plonk.cafe/t/details-of-custom-gate/122)</li><li>Plonk: Thomas Piellard[[13]](https://hackmd.io/@gnark/plonk)</li><li>ZKP intro to Plonk - Star Li[[14]](https://trapdoortech.medium.com/zkp-plonk-algorithm-introduction-834556a32a)</li><li>Multi set checks in Plonk and Plookup: Gabizon[[15]](https://hackmd.io/@arielg/ByFgSDA7D)</li><li>Plonk - Kimchi: Mina Protocol[[16.1]](https://eng-blog.o1labs.org/posts/plonk/)</li><li>Kimchi[[16.2]](https://minaprotocol.com/blog/kimchi-the-latest-update-to-minas-proof-system)</li><li>Plonk not a monad tutorial[[17]](https://blog.lambdaclass.com/all-you-wanted-to-know-about-plonk/?utm_source=substack&utm_medium=email)</ul>|✅|❌|
 |Redshift - 2019|[ →📝](https://eprint.iacr.org/2019/1400)|[Redhsift Summary](https://www.smartcontractresearch.org/t/research-summary-redshift-transparent-snarks-from-list-polynominal-commitment-iops/344)| | | | | |
 |Spartan - 2019|[ →📝](https://eprint.iacr.org/2019/550.pdf)|[Microsoft](https://github.com/microsoft/Spartan) | | | | |
 |Halo - 2019|[ →📝](https://eprint.iacr.org/2019/1021.pdf)| |  |✅|✅|
@@ -58,5 +30,3 @@ SNARK协议的可压缩性和非交互性使其成为许多领域中的重要工
 |Gemini - 2022|[ →📝](https://eprint.iacr.org/2022/420)|[Elastic SNARKs for diverse environments](https://www.youtube.com/watch?v=Suv7MN131f8)
 |Hyperplonk - 2022|[ →📝](https://eprint.iacr.org/2022/1355)|[EspressoSystems](https://github.com/EspressoSystems/hyperplonk)|</li><li>Hyperplonk - benedikt Bunz[[1]](https://www.youtube.com/watch?v=mZEXgoQL6xk)</li><li>Delendum[[2]](https://medium.com/@espressosys/hyperplonk-a-zk-proof-system-for-zkevms-d6359cc0cdb6)</li><li>Hardware friendliness of MLE-Sumcheck[[3]](https://hackmd.io/@omershlo/rJhgKJPtj)</li><li>Hardware-optimizations for SumCheck-Binyi Chen[[4]](https://hackmd.io/PBauexuMQse__I_F27J_kA?view=)
 |Testudo: Groth+Spartan - 2023|[ →📝](https://cryptonet.org/blog/testudo-efficient-snarks-with-smaller-setups)|[cryptonetlab](https://github.com/cryptonetlab/Testudo)
-
-Sure, please paste the Markdown content that you would like me to translate.

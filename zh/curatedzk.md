@@ -58,6 +58,8 @@
   - [开始使用halo2 Axiom](https://docs.axiom.xyz/zero-knowledge-proofs/getting-started-with-halo2#halo2-lib)
   - [Halo2应用和wasm 1](https://medium.com/@yujiangtham/building-a-zero-knowledge-web-app-with-halo-2-and-wasm-part-1-80858c8d16ee)
   - [Halo2应用和wasm 2](https://medium.com/@yujiangtham/building-a-zero-knowledge-web-app-with-halo-2-and-wasm-part-2-379477444dc3)
+  - [Halo2 回顾](https://drive.google.com/file/d/12-e1g8Ad7q0avIOge-NELNBaDlpmk0TV/view?usp=sharing)
+  - [自动分析Halo2电路](https://eprint.iacr.org/2023/1051)
 - [Zokrates](https://github.com/Zokrates/ZoKrates)
 - [Crrl: 密码学研究库 - Thomas Pornin](https://github.com/pornin/crrl)
 - [Bellman（未更新）](https://github.com/zkcrypto/bellman)

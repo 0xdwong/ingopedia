@@ -5,6 +5,8 @@
   - [哈希函数的问题：zk hack](https://zeroknowledge.fm/250-2/)
   - [海绵函数：论文](https://keccak.team/files/SpongeFunctions.pdf)
   - [S盒属性](https://www.diva-portal.org/smash/get/diva2:618670/FULLTEXT01.pdf)
+  - [散列函数在零知识应用中的单体应用程序](https://eprint.iacr.org/2023/1025)
+  - [STARK友好的哈希函数](https://eprint.iacr.org/2023/1045)
   - **Merkling**
     - [什么是默克尔树](https://decentralizedthoughts.github.io/2020-12-22-what-is-a-merkle-tree/)
     - [默克尔树](https://www.rfc-editor.org/rfc/rfc6962#section-2.1)

@@ -7,11 +7,12 @@
 ## 初级
 
 - [Amit Sahai 向各个年龄段的人解释 ZK - 视频](https://www.youtube.com/watch?v=fOGdb1CTu5c)
-- [Nico 的 ZK 术语解码器](https://nmohnblatt.github.io/zk-jargon-decoder/foreword.html))
+- [Nico 的 ZK 术语解码器](https://nmohnblatt.github.io/zk-jargon-decoder/foreword.html)
 - [KU Lueven：ZK 入门第一部分](https://www.esat.kuleuven.be/cosic/blog/co6gc-introduction-to-zero-knowledge-proofs-1/)
 - [交互式证明和 ZK](https://medium.com/magicofc/interactive-proofs-and-zero-knowledge-b32f6c8d66c3)
 - [The incredible Machine - Aviv Zohar](https://medium.com/qed-it/the-incredible-machine-4d1270d7363a)
 - [什么是 ZKP 系统 - Alin Tomescu](https://docs.google.com/presentation/d/1b2FoHN983iA_ZkiISMCKa0JqlE40CeqaqNxWjWiJQjE/edit#slide=id.g22c21d1bffc_0_509)
+- [零知识证明友好介绍](https://zkintro.com/articles/friendly-introduction-to-zero-knowledge)
 
 ## 中级
 

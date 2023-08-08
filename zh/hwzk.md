@@ -24,3 +24,8 @@
 - [ZK Harness](https://www.zk-bench.org)
 - [ZK基准测试 - Delendum](https://github.com/delendum-xyz/zk-benchmarking)
 - [ZKalc](https://zka.lc/about)
+
+
+## TEE和机密计算
+
+- [TEE对于CPU和GPU Nvidia的意义](https://github.com/NVIDIA/nvtrust)

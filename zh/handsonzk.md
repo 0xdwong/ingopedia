@@ -36,6 +36,7 @@
 - [将代码转化为算术电路](https://www.notamonadtutorial.com/how-to-transform-code-into-arithmetic-circuits/)
 - [差分模糊测试](https://www.notamonadtutorial.com/do-you-want-quality-code-learn-how-to-use-differential-fuzzers/)
 - [Zkvm 逐步指南](https://eprint.iacr.org/2023/1032)
+- [Zk智能合约教程](https://medium.com/cyfrin/how-to-create-a-zk-smart-contract-cd948a673749)
 
 ## 挑战和黑客马拉松
 

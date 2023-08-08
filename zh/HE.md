@@ -5,7 +5,10 @@
 - [FHE和应用的调查](https://eprint.iacr.org/2022/1602)
 - [使用FHE进行加密搜索](https://medium.com/zama-ai/encrypted-search-using-fully-homomorphic-encryption-99cd163b94)
 - [探索FHE：Vitalik](https://notes.ethereum.org/@vbuterin/r19UMPTiI)
-- [ML和FHE](https://medium.com/zama-ai/the-r-evolution-of-fhe-485b54a6e69c) 
+- [ML和FHE](https://medium.com/zama-ai/the-r-evolution-of-fhe-485b54a6e69c)
+- [在加密数据上进行计算：Nigel Smart](https://www.youtube.com/watch?v=ih1vhywiKyE)
+- [Sunscreen - 工程师入门指南](https://blog.sunscreen.tech/an-intro-to-fully-homomorphic-encryption-for-engineers/)
+- [调查全同态加密（FHE）及其应用](https://eprint.iacr.org/2022/1602)
 
 ## TFHE深入解析：ZAMA AI - Ilaria Chilloti
 
@@ -28,7 +31,10 @@
 - [Zama AI - Concrete - Python编译器](https://github.com/zama-ai/concrete)
 - [Paillier - Julia](https://github.com/krakhit/Paillier.jl)
 - [Cupcake - Facebook Research](https://github.com/facebookresearch/Cupcake)
-
+- [Sunscreen - 级别化引导](https://github.com/Sunscreen-tech/Sunscreen/tree/main)
+  - [导读](https://docs.sunscreen.tech/intro/intro.html)
+- [OpenFHE](https://www.openfhe.org)
+  - [code](https://github.com/openfheorg/openfhe-development)
 ## 加速FHE
 
 - [FPT：用于Torus完全同态加密的定点加速器](https://eprint.kobi.one/2022/1635)

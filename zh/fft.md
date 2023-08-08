@@ -7,6 +7,8 @@
 - [FFT笔记](https://www.csee.umbc.edu/~phatak/691a/fft-lnotes/fftnotes.pdf)
 - [有限域中的快速傅里叶变换 - Pollard](https://www.ams.org/journals/mcom/1971-25-114/S0025-5718-1971-0301966-0/S0025-5718-1971-0301966-0.pdf)
 - [数论变换（NTT）：介绍](https://www.nayuki.io/page/number-theoretic-transform-integer-dft)
+- [简单地介绍 NTT 1（包括环）](https://cryptographycaffe.sandboxaq.com/posts/ntt-01/)
+- [简单地介绍 NTT 2（包括环）](https://cryptographycaffe.sandboxaq.com/posts/ntt-02/)
 - [NTT的高效素数 - Goldilocks](https://cp4space.hatsya.com/2021/09/01/an-efficient-prime-for-number-theoretic-transforms/)
   - [nuFHE中的Goldilocks](https://nufhe.readthedocs.io/en/latest/implementation_details.html)
   - [Goldilocks NTT技巧 - Solberg](https://www.ingonyama.com/blog/goldilocks-ntt-trick)

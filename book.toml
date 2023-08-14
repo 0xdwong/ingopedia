@@ -1,6 +1,6 @@
 [book]
 authors = ["Ingonyama"]
-language = "ch"
+language = "zh_CN"
 multilingual = false
 src = "zh"
 title = "Ingopedia"

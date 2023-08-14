@@ -1,6 +1,6 @@
-# ZK/Cryptography 实践
+# ZK/密码学 实践
 
-我们的实践方法让学习零知识证明变得互动和实用，参与者可以通过互动和实践的培训体验来建立他们的技能和知识。这些实践工作坊、教程和项目旨在帮助学习者将他们对零知识证明的理解应用于现实世界的情境中，使他们成为在这个领域进一步提升专业知识的宝贵资源。
+我们的实践方法让学习零知识证明变得互动和实用，参与者可以通过互动和实践的培训体验来建立他们的技能和知识。这些动手实践的研讨会、教程和项目旨在帮助学习者将他们对 ZK 证明的理解应用于现实世界中的情境，使其成为任何人进一步提高这一领域专业知识的宝贵资源。
 
 **在这里你将找到：** _代码学习应用_
 
@@ -36,7 +36,7 @@
 - [将代码转化为算术电路](https://www.notamonadtutorial.com/how-to-transform-code-into-arithmetic-circuits/)
 - [差分模糊测试](https://www.notamonadtutorial.com/do-you-want-quality-code-learn-how-to-use-differential-fuzzers/)
 - [Zkvm 逐步指南](https://eprint.iacr.org/2023/1032)
-- [Zk智能合约教程](https://medium.com/cyfrin/how-to-create-a-zk-smart-contract-cd948a673749)
+- [Zk 智能合约教程](https://medium.com/cyfrin/how-to-create-a-zk-smart-contract-cd948a673749)
 
 ## 挑战和黑客马拉松
 

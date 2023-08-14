@@ -1,23 +1,23 @@
 # 讲座系列
 
-我们的零知识证明视频讲座系列提供深入而引人入胜的演示，涵盖了零知识证明的基础和高级主题。这些讲座旨在教育和启发广泛的受众，并包含关于零知识证明各种概念的一系列视频。
+我们的零知识证明视频讲座系列提供深入而引人入胜的演示，涵盖了零知识证明的基础和高级主题。这些讲座旨在教育和启发广泛的受众，并包含一系列关于零知识证明各种概念的视频。
 
 **在这里您将找到：**_播客、讲座和大学/专业课程的视频播放列表_
 
 ---
 
-## ZK课程
+## ZK 课程
 
-关于ZK的大学和专业级别课程。
+关于 ZK 的大学和专业级别课程。
 
 - [ZKMOOC - 2023](https://zk-learning.org/)
 - [ZK BIU学校 - 2019](https://www.youtube.com/playlist?list=PL8Vt-7cSFnw29cLUVqAIuMlg1QJ-szV0K)
-- [密码学2018 MIT](https://www.youtube.com/playlist?list=PL6ogFv-ieghe8MOIcpD6UDtdK-UMHG8oH)
+- [MIT 密码学 2018 ](https://www.youtube.com/playlist?list=PL6ogFv-ieghe8MOIcpD6UDtdK-UMHG8oH)
 - [现代 ZK 密码学 0xparc](https://zkiap.com/#34e5b6cf6e1d4dd3901940d4be2edb0b)
 
 ## 讨论/研讨会
 
-关于各种ZKP相关主题的播客和讲座播放列表。
+关于各种 ZKP 相关主题的播客和讲座播放列表。
 
 - [ZK 白板会议](https://zkhack.dev/whiteboard/)
 - [ZK 黑客](https://www.youtube.com/playlist?list=PLj80z0cJm8QFGB6AsiAG3EB06L7xr5S1c)
@@ -38,7 +38,7 @@
 
 ## 高级课程/主题
 
-ZK的高级大学和专业级课程。
+ZK 相关的高级大学和专业级课程。
 
 - [元复杂性训练营 - Simons Institute](https://www.youtube.com/playlist?list=PLgKuh-lKre1398d4m9iBaXf8fy5Cn5hl0)
 - [概率证明的基础 - Chiesa](https://www.youtube.com/playlist?list=PLGkwtcB-DfpzST-medFVvrKhinZisfluC)

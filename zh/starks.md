@@ -42,5 +42,3 @@
   - [EthSTARK](https://www.youtube.com/watch?v=rReCK7TWCJI)
     - [代码](https://github.com/starkware-libs/ethSTARK)
     - [文档](https://eprint.iacr.org/2021/582.pdf)
-
-Sure, please paste the Markdown content that you would like me to translate.

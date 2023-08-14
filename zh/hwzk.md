@@ -2,8 +2,8 @@
 
 ## 是否需要硬件加速？
 
-- [测量Snark性能前端-后端和未来 - Thaler](https://a16zcrypto.com/measuring-snark-performance-frontends-backends-and-the-future/)
-- [Snark安全性和性能 - Thaler](https://a16zcrypto.com/snark-security-and-performance/)
+- [测量 Snark 性能前端-后端和未来 - Thaler](https://a16zcrypto.com/measuring-snark-performance-frontends-backends-and-the-future/)
+- [Snark 安全性和性能 - Thaler](https://a16zcrypto.com/snark-security-and-performance/)
 - [去中心化速度：零知识证明的进展](https://a16z.com/2022/04/15/zero-knowledge-proofs-hardware-decentralization-innovation/)
 - [零知识证明的硬件加速](https://www.paradigm.xyz/2022/04/zk-hardware)
 <!-- - [安全计算和硬件加速](https://www.sigarch.org/cryptography-for-secure-computing-a-new-hardware-acceleration-opportunity/) -->
@@ -20,12 +20,12 @@
 
 ## ZKP原语的基准测试
 
-- [ZKP框架的典范 - Celer Network](https://blog.celer.network/2023/03/01/the-pantheon-of-zero-knowledge-proof-development-frameworks/)
+- [ZKP 框架的典范 - Celer Network](https://blog.celer.network/2023/03/01/the-pantheon-of-zero-knowledge-proof-development-frameworks/)
 - [ZK Harness](https://www.zk-bench.org)
-- [ZK基准测试 - Delendum](https://github.com/delendum-xyz/zk-benchmarking)
+- [ZK 基准测试 - Delendum](https://github.com/delendum-xyz/zk-benchmarking)
 - [ZKalc](https://zka.lc/about)
 
 
 ## TEE和机密计算
 
-- [TEE对于CPU和GPU Nvidia的意义](https://github.com/NVIDIA/nvtrust)
+- [TEE 对于 CPU 和 GPU Nvidia 的意义](https://github.com/NVIDIA/nvtrust)

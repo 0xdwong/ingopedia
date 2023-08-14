@@ -1,12 +1,12 @@
 # 哈希函数
 
 - **ZK哈希-通用**
-  - [ZKP友好的哈希函数：SOK](https://github.com/ingonyama-zk/papers/blob/main/sok_zk_friendly_hashes.pdf)
+  - [ZKP 友好的哈希函数：SOK](https://github.com/ingonyama-zk/papers/blob/main/sok_zk_friendly_hashes.pdf)
   - [哈希函数的问题：zk hack](https://zeroknowledge.fm/250-2/)
   - [海绵函数：论文](https://keccak.team/files/SpongeFunctions.pdf)
-  - [S盒属性](https://www.diva-portal.org/smash/get/diva2:618670/FULLTEXT01.pdf)
+  - [S 盒属性](https://www.diva-portal.org/smash/get/diva2:618670/FULLTEXT01.pdf)
   - [散列函数在零知识应用中的单体应用程序](https://eprint.iacr.org/2023/1025)
-  - [STARK友好的哈希函数](https://eprint.iacr.org/2023/1045)
+  - [STARK 友好的哈希函数](https://eprint.iacr.org/2023/1045)
   - **Merkling**
     - [什么是默克尔树](https://decentralizedthoughts.github.io/2020-12-22-what-is-a-merkle-tree/)
     - [默克尔树](https://www.rfc-editor.org/rfc/rfc6962#section-2.1)
@@ -15,13 +15,13 @@
     - [默克尔树和包含证明](https://www.derpturkey.com/merkle-tree-construction-and-proof-of-inclusion/)
     - [为什么不应该对默克尔树的叶子进行排序](https://alinush.github.io/2023/02/05/Why-you-should-probably-never-sort-your-Merkle-trees-leaves.html)
   - **Fiat Shamir**
-    - [Merlin：Fiat-Shamir魔法生成器](https://merlin.cool/index.html)
-    - [如何使用Fiat Shamir](http://cyber.biu.ac.il/wp-content/uploads/2018/08/WS-19-7-_fiat_shamir_basic.pdf)
-    - [提供ZKP](https://blog.trailofbits.com/2021/02/19/serving-up-zero-knowledge-proofs/)
-    - [Frozen Heart漏洞](https://blog.trailofbits.com/2022/04/13/part-1-coordinated-disclosure-of-vulnerabilities-affecting-girault-bulletproofs-and-plonk/)
-      - [在Girault的知识证明中](https://blog.trailofbits.com/2022/04/14/the-frozen-heart-vulnerability-in-giraults-proof-of-knowledge/)
-      - [在Bulletproofs中](https://blog.trailofbits.com/2022/04/15/the-frozen-heart-vulnerability-in-bulletproofs/)
-      - [在Plonk中](https://blog.trailofbits.com/2022/04/18/the-frozen-heart-vulnerability-in-plonk/)
+    - [Merlin：Fiat-Shamir 魔法生成器](https://merlin.cool/index.html)
+    - [如何使用 Fiat Shamir](http://cyber.biu.ac.il/wp-content/uploads/2018/08/WS-19-7-_fiat_shamir_basic.pdf)
+    - [提供 ZKP](https://blog.trailofbits.com/2021/02/19/serving-up-zero-knowledge-proofs/)
+    - [Frozen Heart 漏洞](https://blog.trailofbits.com/2022/04/13/part-1-coordinated-disclosure-of-vulnerabilities-affecting-girault-bulletproofs-and-plonk/)
+      - [在 Girault 的知识证明中](https://blog.trailofbits.com/2022/04/14/the-frozen-heart-vulnerability-in-giraults-proof-of-knowledge/)
+      - [在 Bulletproofs 中](https://blog.trailofbits.com/2022/04/15/the-frozen-heart-vulnerability-in-bulletproofs/)
+      - [在 Plonk 中](https://blog.trailofbits.com/2022/04/18/the-frozen-heart-vulnerability-in-plonk/)
 - **哈希函数**
   - [Keccak：海绵和双工构造](https://keccak.team/sponge_duplex.html)
   - **SHA256**
@@ -29,36 +29,36 @@
   - **Poseidon**
     - [POSEIDON：用于零知识证明系统的新哈希函数](https://eprint.iacr.org/2019/458.pdf)
     - [一些文档](https://www.poseidon-hash.info)
-    - [使用Poseidon的加密：Dima Khovratovich](https://drive.google.com/file/d/1EVrP3DzoGbmzkRmYnyEDcIQcXVU7GlOd/view)
-    - [SAFE：Poseidon API的工具箱](https://hackmd.io/bHgsH6mMStCVibM_wYvb2w?view)
-      - [SAFE：更快、更简单的哈希与ZKP](https://www.youtube.com/watch?v=w-4fzHpd4dk)
-    - [在Poseidon中对长对象的编码- Dmitry Khovratovich](https://hackmd.io/@7dpNYqjKQGeYC7wMlPxHtQ/BkfS78Y9L)
+    - [使用 Poseidon 的加密：Dima Khovratovich](https://drive.google.com/file/d/1EVrP3DzoGbmzkRmYnyEDcIQcXVU7GlOd/view)
+    - [SAFE：Poseidon API 的工具箱](https://hackmd.io/bHgsH6mMStCVibM_wYvb2w?view)
+      - [SAFE：更快、更简单的哈希与 ZKP](https://www.youtube.com/watch?v=w-4fzHpd4dk)
+    - [在 Poseidon 中对长对象的编码- Dmitry Khovratovich](https://hackmd.io/@7dpNYqjKQGeYC7wMlPxHtQ/BkfS78Y9L)
     - [Talk Grassi](https://www.usenix.org/system/files/sec21_slides_grassi.pdf)
-    - [Plonky2：Poseidon门](https://medium.com/@wanghs.thu/into-poseidon-hash-37d03ef0b26e)
+    - [Plonky2：Poseidon 门](https://medium.com/@wanghs.thu/into-poseidon-hash-37d03ef0b26e)
     - [Penumbra：Poseidon Decaf377](https://protocol.penumbra.zone/main/crypto/poseidon/overview.html) 
     - **Poseidon实现**
       - [代码：Filecoin](https://github.com/filecoin-project/neptune/blob/master/spec/poseidon_spec.pdf)
-        - [Filecoin中的Poseidon - Dmitry Khovratovich](https://hackmd.io/@7dpNYqjKQGeYC7wMlPxHtQ/BJjaxXd9U)
+        - [Filecoin 中的 Poseidon - Dmitry Khovratovich](https://hackmd.io/@7dpNYqjKQGeYC7wMlPxHtQ/BJjaxXd9U)
       - [代码：Ingonyama（Python）](https://github.com/ingonyama-zk/poseidon-hash)
       - [代码：Dusk network](https://github.com/dusk-network/Poseidon252)
       - [代码：Dust network - Poseidon merkle](https://github.com/dusk-network/dusk-poseidon-merkle)
       - [代码：Triplewz - GO](https://github.com/triplewz/poseidon)
   - **Rescue**
     - [Rescue-Prime：标准规范（SoK）](https://eprint.iacr.org/2020/1143.pdf)
-    - [对Rescue的观察](https://hackmd.io/@7dpNYqjKQGeYC7wMlPxHtQ/SJMVAPfjL) 
+    - [对 Rescue 的观察](https://hackmd.io/@7dpNYqjKQGeYC7wMlPxHtQ/SJMVAPfjL) 
     - [Poseidon vs Rescue](https://ethresear.ch/t/performance-of-rescue-and-poseidon-hash-functions/7161)
   - **MIMC**
     - [MiMc](https://eprint.iacr.org/2016/492.pdf)
-    - [Plonk中的Mimc7 - 自定义门](https://kobi.one/2021/05/20/plonk-custom-gates.html)
-    - [Mimc Roy幻灯片](https://iacr.org/cryptodb/archive/2016/ASIACRYPT/presentation/27874.pdf)
-  - **钢筋混凝土**
-    - [钢筋混凝土](https://drive.google.com/file/d/1MCIqD8XwKrHVBQPc26XjAmM9RyrLDpjw/view)
+    - [Plonk中 的 Mimc7 - 自定义门](https://kobi.one/2021/05/20/plonk-custom-gates.html)
+    - [Mimc Roy 幻灯片](https://iacr.org/cryptodb/archive/2016/ASIACRYPT/presentation/27874.pdf)
+  - **Reinforced concrete**
+    - [Reinforced concrete](https://drive.google.com/file/d/1MCIqD8XwKrHVBQPc26XjAmM9RyrLDpjw/view)
     - [实现](https://www.rc-hash.info)
-    - [Plonkup钢筋混凝土zkstudyclub](https://www.youtube.com/watch?v=Pnc9J7uQgqs)
+    - [Plonkup Reinforced zkstudyclub](https://www.youtube.com/watch?v=Pnc9J7uQgqs)
     - [代码：Luke Pearson](https://github.com/LukePearson1/reinforced-concrete)
   - **Sinsemilla**
     - [Sinsemilla：一种电路高效、基于查找的抗碰撞哈希函数](https://zcash.github.io/halo2/design/gadgets/sinsemilla.html)
-    - [ZCash协议规范](https://zips.z.cash/protocol/protocol.pdf#concretesinsemillahash)
+    - [ZCash 协议规范](https://zips.z.cash/protocol/protocol.pdf#concretesinsemillahash)
   - **BLAKE**
     - [Blake](https://github.com/BLAKE3-team/BLAKE3-specs/blob/master/blake3.pdf)
     - [代码](https://github.com/BLAKE3-team/BLAKE3)
@@ -67,9 +67,7 @@
     - [代码](https://github.com/Neptune-Crypto/twenty-first)
 - **哈希到曲线**
   - [哈希到曲线](https://www.ietf.org/archive/id/draft-irtf-cfrg-hash-to-curve-16.html#hashtofield)
-  - [哈希到secp256k1曲线](https://geometry.xyz/notebook/Hashing-to-the-secp256k1-Elliptic-Curve)
-  - [在EVM上优化的BLS签名](https://geometry.xyz/notebook/Optimized-BLS-multisignatures-on-EVM)
+  - [哈希到 secp256k1 曲线](https://geometry.xyz/notebook/Hashing-to-the-secp256k1-Elliptic-Curve)
+  - [在 EVM 上优化的 BLS 签名](https://geometry.xyz/notebook/Optimized-BLS-multisignatures-on-EVM)
 - **哈希赏金**
   - [代数哈希赏金](https://hackmd.io/l2JT8AQITJ2xRZpGErPnzA#Decomposition-parameters)
-
-Sure, please paste the Markdown content here and I will translate it for you.

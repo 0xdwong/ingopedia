@@ -35,7 +35,7 @@
   - [Miden VM](https://wiki.polygon.technology/docs/miden/intro/main)
     - [Miden VM 中的范围检查](https://hackmd.io/D-vjBYtHQB2BuOB-HMUG5Q)
     - [Miden VM 程序解码器](https://hackmd.io/_aaDBzbWRz6EwQQRtK1pzw)
-    - [MidenVM 中的内存](https://hackmd.io/@bobbinth/HJr56BKKt)
+    - [Miden VM 中的内存](https://hackmd.io/@bobbinth/HJr56BKKt)
     - [Miden VM 中的 u32](https://hackmd.io/NC-yRmmtRQSvToTHb96e8Q#u32-operations-in-Miden-VM)
   - [RISC0 ZK VM](https://www.risczero.com)
     - [RISC0 证明系统](https://www.risczero.com/proof-system-in-detail.pdf)
@@ -48,24 +48,24 @@
 - [ZK桥接的漏洞](https://blog.chainalysis.com/reports/cross-chain-bridge-hacks-2022/)
 - [跨链桥接和如何破解它们的入门指南：Niv Yehezkel](https://www.youtube.com/watch?v=tdQ995ahadQ)
 - [区块链桥接：介绍](https://medium.com/1kxnetwork/blockchain-bridges-5db6afac44f8)
-- [验证桥接和L2协议的介绍 - Patrick McCory](https://www.youtube.com/watch?v=VLWPl7PsPDQ)
+- [验证桥接和 L2 协议的介绍 - Patrick McCory](https://www.youtube.com/watch?v=VLWPl7PsPDQ)
 - [zkEVMOS - 桥接和互操作性](https://www.youtube.com/watch?v=f4kBUe2n0Qk)
-- [使用ZKP桥接区块链多元宇宙](https://medium.com/@ingonyama/bridging-the-multichain-universe-with-zero-knowledge-proofs-6157464fbc86)
+- [使用 ZKP 桥接区块链多元宇宙](https://medium.com/@ingonyama/bridging-the-multichain-universe-with-zero-knowledge-proofs-6157464fbc86)
 - [在区块链上保护隐私 - Wei Dai](https://wdai.us/posts/navigating-privacy/)
 - [拥有安全的中心化交易所：可溯源性证明及其更多应用](https://vitalik.ca/general/2022/11/19/proof_of_solvency.html)
 
 ## ZKML
 
-- [ZKML简介](https://worldcoin.org/blog/engineering/intro-to-zkml)
+- [ZKML 简介](https://worldcoin.org/blog/engineering/intro-to-zkml)
 - [zkMNIST](https://0xparc.org/blog/zk-mnist)
 - [awesome-zkml](https://github.com/zkml-community/awesome-zkml)
-- [ZK和ML的权衡 - Elena Burger](https://a16zcrypto.com/content/article/checks-and-balances-machine-learning-and-zero-knowledge-proofs/?utm_source=substack&utm_medium=email)
+- [ZK 和 ML 的权衡 - Elena Burger](https://a16zcrypto.com/content/article/checks-and-balances-machine-learning-and-zero-knowledge-proofs/?utm_source=substack&utm_medium=email)
 - [语言模型是否具有知识完备性 - Tarun Chitra](https://hackmd.io/@pinged/zk-and-llms?utm_source=substack&utm_medium=email)
-- [使用zkml验证Twitter算法的完整性 - Daniel Kang](https://medium.com/@danieldkang/empowering-users-to-verify-twitters-algorithmic-integrity-with-zkml-65e56d0e9dd9)
-- [ZK Snarks如何通过zkml为私有ML模型带来透明度 - Daniel Kang](https://medium.com/@danieldkang/bridging-the-gap-how-zk-snarks-bring-transparency-to-private-ml-models-with-zkml-e0e59708c2fc)
-- [使用ZKPs桥接AI/ML和Web3](https://mirror.xyz/privacy-scaling-explorations.eth/K88lOS4XegJGzMoav9K5bLuT9Zhn3Hz2KkhB3ITq-m8)
-- [探索ZKML](https://bwetzel.medium.com/zero-knowledge-machine-learning-zkml-projects-exploring-the-space-fc9d5f04fb65)
-- [GPT、BERT、CLIP的验证执行](https://medium.com/@danieldkang/verified-execution-of-gpt-bert-clip-and-more-6acb693fd55f)
+- [使用 zkml 验证 Twitter 算法的完整性 - Daniel Kang](https://medium.com/@danieldkang/empowering-users-to-verify-twitters-algorithmic-integrity-with-zkml-65e56d0e9dd9)
+- [ZK Snarks 如何通过 zkml 为私有 ML 模型带来透明度 - Daniel Kang](https://medium.com/@danieldkang/bridging-the-gap-how-zk-snarks-bring-transparency-to-private-ml-models-with-zkml-e0e59708c2fc)
+- [使用 ZKPs 桥接 AI/ML 和 Web3](https://mirror.xyz/privacy-scaling-explorations.eth/K88lOS4XegJGzMoav9K5bLuT9Zhn3Hz2KkhB3ITq-m8)
+- [探索 ZKML](https://bwetzel.medium.com/zero-knowledge-machine-learning-zkml-projects-exploring-the-space-fc9d5f04fb65)
+- [GPT、BERT、CLIP 的验证执行](https://medium.com/@danieldkang/verified-execution-of-gpt-bert-clip-and-more-6acb693fd55f)
 
 ## ZK 游戏
 

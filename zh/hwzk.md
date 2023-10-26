@@ -29,3 +29,4 @@
 ## TEE和机密计算
 
 - [TEE 对于 CPU 和 GPU Nvidia 的意义](https://github.com/NVIDIA/nvtrust)
+- [区块链应用的可信执行环境（TEE）](https://www.youtube.com/watch?v=Xq7oWtiwWII)

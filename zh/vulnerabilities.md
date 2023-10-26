@@ -22,3 +22,5 @@ ZK 系统中的潜在漏洞和安全性
 - [Feldman 秘密共享攻击](https://www.zkdocs.com/docs/zkdocs/protocol-primitives/verifiable-secret-sharing/)
 - [阈值签名的陷阱](https://www.jcraige.com/dangers-of-determinism-in-threshold-signatures)
 - [VSS 伪造](https://www.jcraige.com/vss-forgery)
+- [ZK 中的回旋值](https://www.zksecurity.xyz/blog/posts/boomerang/)
+- [GPUz.zip 中的 GPU 侧信道攻击](https://www.hertzbleed.com/gpu.zip/)

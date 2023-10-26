@@ -31,6 +31,7 @@
 - [BLS12 的子群检查](https://hackmd.io/@yelhousni/bls12_subgroup_check)
 - [因子解释：椭圆曲线的小秘密](https://loup-vaillant.fr/tutorials/cofactor)
 - [在密码学中应用 Riemann-Roch 定理 - Borgeaud](https://solvable.group/posts/riemann-roch-crypto/)
+- [四元数代数与同构密码学](https://www.lix.polytechnique.fr/Labo/Antonin.LEROUX/manuscrit_these.pdf)
 
 ## 配对
 
@@ -45,6 +46,8 @@
   - [代码](https://github.com/yi-sun/circom-pairing)
 - [配对或双线性映射](https://alinush.github.io/2022/12/31/pairings-or-bilinear-maps.html)
 - [优化模拟配对](https://hackmd.io/@ivokub/SyJRV7ye2)
+- [估计配对友好曲线的比特安全性](https://research.nccgroup.com/2022/03/02/estimating-the-bit-security-of-pairing-friendly-curves/)
+- [优化基于配对的密码学，Rust 中的蒙哥马利算术](https://research.nccgroup.com/2021/06/09/optimizing-pairing-based-cryptography-montgomery-arithmetic-in-rust/)
 
 ## 特定曲线
 

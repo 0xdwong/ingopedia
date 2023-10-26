@@ -1,46 +1,9 @@
-# 同态加密
+# 全同态加密
 
-## 概述
+## [文章](https://github.com/ingonyama-zk/ingopedia/blob/Otsars-patch/src/introfhe.md)
 
-- [FHE 和应用的调查](https://eprint.iacr.org/2022/1602)
-- [使用 FHE 进行加密搜索](https://medium.com/zama-ai/encrypted-search-using-fully-homomorphic-encryption-99cd163b94)
-- [探索 FHE：Vitalik](https://notes.ethereum.org/@vbuterin/r19UMPTiI)
-- [ML 和 FHE](https://medium.com/zama-ai/the-r-evolution-of-fhe-485b54a6e69c)
-- [在加密数据上进行计算：Nigel Smart](https://www.youtube.com/watch?v=ih1vhywiKyE)
-- [Sunscreen - 工程师入门指南](https://blog.sunscreen.tech/an-intro-to-fully-homomorphic-encryption-for-engineers/)
-- [调查全同态加密（FHE）及其应用](https://eprint.iacr.org/2022/1602)
+## [方案](https://github.com/ingonyama-zk/ingopedia/blob/Otsars-patch/src/schemesfhe.md)
 
-## TFHE 深入解析：ZAMA AI - Ilaria Chilloti
+## [库](https://github.com/ingonyama-zk/ingopedia/blob/Otsars-patch/src/fhelibraries.md)
 
-- [第1部分：密文类型](https://www.zama.ai/post/tfhe-deep-dive-part-1?utm_source=tfhe_deep_dive_part_I&utm_medium=substack&utm_campaign=blogpost)
-- [第2部分：编码和线性操作](https://www.zama.ai/post/tfhe-deep-dive-part-2?utm_source=tfhe_deep_dive_part_I&utm_medium=substack&utm_campaign=blogpost)
-- [第3部分：密钥切换和层级乘法](https://www.zama.ai/post/tfhe-deep-dive-part-3?utm_source=tfhe_deep_dive_part_3&utm_medium=substack&utm_campaign=blogpost)
-- [第4部分：可编程引导](https://www.zama.ai/post/tfhe-deep-dive-part-4)
-
-## 同态加密库/实现
-
-- [Awesome FHE 库列表](https://github.com/jonaschn/awesome-he)
-- [Microsoft SEAL](https://github.com/microsoft/SEAL#introduction)
-- [TenSEAL - Openmined](https://github.com/OpenMined/TenSEAL)
-- [PySyft - Openmined](https://github.com/OpenMined/PySyft)
-- [Tfhe - torus](https://github.com/krakhit/tfhe)
-- [Google - FHE](https://github.com/google/fully-homomorphic-encryption)
-- [IBM - FHE](https://github.com/IBM/fhe-toolkit-macos)
-- [PALISADE](https://palisade-crypto.org/software-library/)
-- [Zama AI - TFHE-rs - Rust 库](https://github.com/zama-ai/tfhe-rs)
-- [Zama AI - Concrete - Python 编译器](https://github.com/zama-ai/concrete)
-- [Paillier - Julia](https://github.com/krakhit/Paillier.jl)
-- [Cupcake - Facebook Research](https://github.com/facebookresearch/Cupcake)
-- [Sunscreen - 级别化引导](https://github.com/Sunscreen-tech/Sunscreen/tree/main)
-  - [导读](https://docs.sunscreen.tech/intro/intro.html)
-- [OpenFHE](https://www.openfhe.org)
-  - [代码](https://github.com/openfheorg/openfhe-development)
-## 加速 FHE
-
-- [FPT：用于 Torus 完全同态加密的定点加速器](https://eprint.kobi.one/2022/1635)
-
-## 漏洞和攻击
-
-- [FHE方案的安全性](https://www.zama.ai/post/estimating-the-security-of-homomorphic-schemes)
-  - [基于 Lattice 的攻击](https://blog.simons.berkeley.edu/2020/04/lattice-blog-reduction-part-i-bkz/)
-- [关于 LWE 的具体难度](https://eprint.iacr.org/2015/046.pdf)
+## [数学](https://github.com/ingonyama-zk/ingopedia/blob/Otsars-patch/src/mathfhe.md)

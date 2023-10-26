@@ -9,6 +9,7 @@
 ## 通用
 
 - [零知识证明编码入门](https://dev.to/spalladino/a-beginners-intro-to-coding-zero-knowledge-proofs-c56)
+- [Babysnark do do dodo dodo](https://github.com/initc3/babySNARK)
 - [TypeScript 零知识证明](https://alysiatech.medium.com/how-to-code-a-zk-app-each-step-explained-so-you-can-create-privacy-preserving-apps-be7e92d7189d)
 - [Bellman 零知识证明](https://hongchao.me/zksnark/)
 - [Cryptohack - 实践密码学](https://cryptohack.org)
@@ -37,17 +38,27 @@
 - [差分模糊测试](https://www.notamonadtutorial.com/do-you-want-quality-code-learn-how-to-use-differential-fuzzers/)
 - [Zkvm 逐步指南](https://eprint.iacr.org/2023/1032)
 - [Zk 智能合约教程](https://medium.com/cyfrin/how-to-create-a-zk-smart-contract-cd948a673749)
+- [优化基于配对的密码学，用 Rust 实现蒙哥马利算术](https://research.nccgroup.com/2021/06/09/optimizing-pairing-based-cryptography-montgomery-arithmetic-in-rust/)
+  - [汇编代码中](https://research.nccgroup.com/2021/09/10/optimizing-pairing-based-cryptography-montgomery-multiplication-in-assembly/)
+- **在 BLS12-381 上进行配对**
+  - [第 1 部分：字段](https://research.nccgroup.com/2020/07/06/pairing-over-bls12-381-part-1-fields/)
+  - [第 2 部分：曲线](https://research.nccgroup.com/2020/07/13/pairing-over-bls12-381-part-2-curves/)
+  - [第 3 部分：配对](https://research.nccgroup.com/2020/08/13/pairing-over-bls12-381-part-3-pairing/)
+- [ZKtooling 和证明系统的概述：2023 年 9 月](https://blog.aayushg.com/posts/zk)
 
 ## 挑战和黑客马拉松
 
 - [Berkeley RDI ZKP-Web3 黑客马拉松](https://zk-hacking.org/#)
 - [Zk hack puzzles](https://www.zkhack.dev/mini.html)
+- [Ingonyama ZK CTF-2023 年 5 月](https://github.com/ingonyama-zk/zkctf-2023-writeups)
+
 
 ## 用于 ZK/密码学的 Rust 学习资源
 
 - [Rust 书籍](https://doc.rust-lang.org/book/title-page.html)
   - [带有互动测验的 Rust 书籍](https://rust-book.cs.brown.edu)
   - [Rust 书籍课程](https://www.youtube.com/playlist?list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8)
+  - [Rust 指南书](https://securrtech.medium.com/complete-guide-to-rust-zero-to-one-to-hacking-e1f4380ae95c)
 - [Google 的全面 Rust](https://google.github.io/comprehensive-rust/)
 - [打印并随身携带 - cheats.rs](https://cheats.rs)
 - [教程](https://fasterthanli.me)
@@ -60,6 +71,7 @@
 - [Rust 学习](https://github.com/ctjhoa/rust-learning)
 - [Rust 快速入门课程](https://github.com/CleanCut/ultimate_rust_crash_course)
 - [使用 Rust 进行数据工程](https://datawithrust.com)
+- [Circomscribe - 学习 circom](https://www.zksecurity.xyz/blog/posts/circomscribe/)
 
 ## 基准测试工具
 
@@ -71,5 +83,6 @@
 - [Criterion](https://bheisler.github.io/criterion.rs/book/criterion_rs.html)
   - [Criterion 简介](https://www.notamonadtutorial.com/benchmarking-and-analyzing-rust-performance-with-criterion-and-iai/)
 - [基准测试游戏](https://benchmarksgame-team.pages.debian.net/benchmarksgame/why-measure-toy-benchmark-programs.html)
-
-
+- [Zkalc](https://zka.lc/charts)
+- [zkBench](https://eprint.iacr.org/2023/1503)
+  - [Benchmarks](https://zkbench.dev)

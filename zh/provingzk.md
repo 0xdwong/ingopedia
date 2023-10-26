@@ -36,3 +36,9 @@
 ## 折叠和累积方案
 
 - [资源：Awesome Folding](https://github.com/lurk-lab/awesome-folding)
+- [如何构建一个超凡脱俗的 snark - Nat Bunner](https://hackmd.io/@ndbunner/B1hmeoGEn)
+- [一个不完整的折叠方案指南 - Lisa](https://taiko.mirror.xyz/tk8LoE-rC2w0MJ4wCWwaJwbq8-Ih8DXnLUf7aJX1FbU)
+
+## 通用
+
+- [简洁证明和线性代数](https://angeris.github.io/papers/zk-linalg.pdf)

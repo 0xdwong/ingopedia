@@ -26,12 +26,15 @@
   - [以太坊：ZK Rollups](https://ethereum.org/ph/developers/docs/scaling/zk-rollups/)
   - [ZK Rollups 的工作原理：Simon Brown](https://medium.com/fcats-blockchain-incubator/how-zk-rollups-work-8ac4d7155b0e)
   - [Danksharding 概述](https://a16zcrypto.com/content/article/an-overview-of-danksharding-and-a-proposal-for-improvement-of-das/)
+   - [Zk evm 比较指南](https://blog.jarrodwatts.com/the-ultimate-zk-evm-comparison-guide)
+
 - **EVM/VMs**
   - [Aztec 协议](https://aztec.network)
   - [Scroll EVM](https://scroll.io)
   - [Taiko EVM](https://taiko.xyz/)
   - [zkSync](https://docs.zksync.io/userdocs/)
   - [Polygon zkEVM](https://polygon.technology/solutions/polygon-zkevm/)
+      - [如何证明一批交易](https://blog.jarrodwatts.com/how-polygon-zkevm-proves-batches-of-transactions)
   - [Miden VM](https://wiki.polygon.technology/docs/miden/intro/main)
     - [Miden VM 中的范围检查](https://hackmd.io/D-vjBYtHQB2BuOB-HMUG5Q)
     - [Miden VM 程序解码器](https://hackmd.io/_aaDBzbWRz6EwQQRtK1pzw)
@@ -53,6 +56,10 @@
 - [使用 ZKP 桥接区块链多元宇宙](https://medium.com/@ingonyama/bridging-the-multichain-universe-with-zero-knowledge-proofs-6157464fbc86)
 - [在区块链上保护隐私 - Wei Dai](https://wdai.us/posts/navigating-privacy/)
 - [拥有安全的中心化交易所：可溯源性证明及其更多应用](https://vitalik.ca/general/2022/11/19/proof_of_solvency.html)
+
+## 客户端
+
+- [使用 webGPU 加速客户端 ZK](https://geometry.xyz/notebook/accelerating-client-side-zk-with-webgpu)
 
 ## ZKML
 
@@ -91,3 +98,7 @@
     - [任务定义](https://medium.com/@z1286679231/definition-and-characteristics-of-p1-p2-c1-c2-in-ipfs-filecoin-49daa3b735e3)
     - [PoRep 电路博客](https://trapdoortech.medium.com/filecoin-porep-circuit-introduction-43415d97730c)
     - [Precommit 2](https://trapdoortech.medium.com/filecoin-deep-into-precommit2-logic-710392c6b00c)
+
+## 其他应用
+
+- [私密搜索引擎](https://educatedguesswork.org/posts/tiptoe/)

@@ -24,6 +24,7 @@
 - [快速重心评估教程 - Vitalik](https://hackmd.io/@vbuterin/barycentric_evaluation)
 - [重心插值 - Math Oxford](https://people.maths.ox.ac.uk/trefethen/barycentric.pdf)
 - [Walsh Hadamard 变换 - Borgeaud](https://solvable.group/posts/walshhadamard-transform/)
+- [有限域上的 FFT 介绍](https://t.co/qXTu1Z4OzK)
 
 ## 实现
 

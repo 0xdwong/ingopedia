@@ -13,6 +13,7 @@
 - [不可思议的机器 - Aviv Zohar](https://medium.com/qed-it/the-incredible-machine-4d1270d7363a)
 - [什么是 ZKP 系统 - Alin Tomescu](https://docs.google.com/presentation/d/1b2FoHN983iA_ZkiISMCKa0JqlE40CeqaqNxWjWiJQjE/edit#slide=id.g22c21d1bffc_0_509)
 - [零知识证明友好介绍](https://zkintro.com/articles/friendly-introduction-to-zero-knowledge)
+- [ZKP 的生命周期](https://www.zkcamp.xyz/blog/lifecycle-of-zkp)
 
 ## 中级
 
@@ -21,6 +22,7 @@
 - [数学生存指南：面向 zk 开发者 - lambdaclass](https://www.notamonadtutorial.com/math-survival-kit-for-developers/)
 - [理解多项式](https://www.zkcamp.xyz/blog/you-cant-understand-zkps-without-understanding-polynomials)
 - [区块链和经济学中的 ZK 入门](https://files.stlouisfed.org/files/htdocs/publications/review/2023/05/12/an-introduction-to-zero-knowledge-proofs-in-blockchains-and-economics.pdf)
+- [ZKP 之旅 - David Wong](https://www.cryptologie.net/article/600/a-journey-into-zero-knowledge-proofs/)
 
 ## 高级
 
@@ -41,3 +43,4 @@
 - [ZKP 来自信息论证明系统 2 - Yuval Ishai](https://zkproof.org/2020/10/15/information-theoretic-proof-systems-part-ii/)
 - [ZKP - 模块化方法 - Yuval Ishai](https://zkproof.org/author/yuvalishai/)
 - [ZK-Snarks 的误解 - Thaler](https://a16zcrypto.com/posts/article/17-misconceptions-about-snarks/)
+- [范围证明简介](https://tech.mystenlabs.com/zero-knowledge-range-proofs/)

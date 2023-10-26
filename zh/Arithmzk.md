@@ -5,6 +5,7 @@
   - [复杂性动物园](https://complexityzoo.net/Complexity_Zoo)
   - [用于 snarks 的算术化方案](https://www.notamonadtutorial.com/arithmetization-schemes-for-zk-snarks/)
   - [电路中使用的 Grobner 基础](https://hackmd.io/25ZAEomYRjKEsHi61CbWiw?view)
+  - [Circomscribe - 学习 circom](https://www.zksecurity.xyz/blog/posts/circomscribe/)
 - **R1CS 约束系统**
   - [Daira Hopwood - 高效的 R1CS 电路：视频](https://www.youtube.com/watch?v=Uug5p05_wqs)
   - [二次算术程序 R1CS 0到 H - Vitalik Buterin](https://medium.com/@VitalikButerin/quadratic-arithmetic-programs-from-zero-to-hero-f6d558cea649)

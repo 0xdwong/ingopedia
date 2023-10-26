@@ -16,6 +16,7 @@
 - [硬件友好的模乘法](https://github.com/ingonyama-zk/papers/blob/main/modular_multiplication.pdf)
 - [使用正逆模 r 的 Montgomery REDC](https://jeffhurchalla.com/2022/04/28/montgomery-redc-using-the-positive-inverse-mod-r/)
 - [低延迟乘法器和密码难题](https://blog.janestreet.com/really-low-latency-multipliers-and-cryptographic-puzzles/)
+- [优化基于配对的密码学，Rust 中的蒙哥马利算术](https://research.nccgroup.com/2021/06/09/optimizing-pairing-based-cryptography-montgomery-arithmetic-in-rust/)
 
 ## 相关数学
 

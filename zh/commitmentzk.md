@@ -25,3 +25,9 @@
 - **内积论证（IPA）**
   - [内积论证 - Dankrad Feist](https://dankradfeist.de/ethereum/2021/07/27/inner-product-arguments.html)
   - [手动进行的IPA - arnacube](https://arnaucube.com/blog/ipa.html)
+  - [IPA 承诺方案 Lambdaclass](https://blog.lambdaclass.com/ipa-and-a-polynomial-commitment-scheme/)
+- **基于格的承诺方案**
+  - [Vortex](https://eprint.iacr.org/2022/1633)
+  - [SLAP](https://eprint.iacr.org/2023/1469)
+    - [博客](https://gfenzi.io/lattices/slap/)
+

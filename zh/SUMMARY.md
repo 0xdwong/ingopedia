@@ -35,3 +35,7 @@
       - [离散傅立叶变换](./fft.md)
       - [多标量乘法](./msm.md)
 - [同态加密](./HE.md)
+  - [文章](./introfhe.md)
+  - [方案](./schemesfhe.md)
+  - [库](./fhelibraries.md)
+  - [数学](mathfhe.md)

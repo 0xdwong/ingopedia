@@ -52,3 +52,4 @@ ZK 相关的高级大学和专业级课程。
 - [区块链与货币 MIT 2018](https://www.youtube.com/playlist?list=PLUl4u3cNGP63UUkfL0onkxF6MYgVa04Fn)
 - [DEFI MOOC](https://www.youtube.com/playlist?list=PLS01nW3RtgopJOtsMVOK3N7n7qyNMPbJ_)
 - [模糊测试研讨会](https://www.youtube.com/playlist?list=PLciHOL_J7Iwqdja9UH4ZzE8dP1IxtsBXI)
+- [用于快速算法训练营的优化](https://simons.berkeley.edu/workshops/data-structures-optimization-fast-algorithms-boot-camp/videos#simons-tabs)

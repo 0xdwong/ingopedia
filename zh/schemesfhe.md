@@ -2,7 +2,6 @@
 
 ## **正在建设中** 👷
 
-## BGV
 ## 公钥加密：HE
 ### [论文](https://people.csail.mit.edu/vinodv/6892-Fall2013/rothblum.pdf)
 

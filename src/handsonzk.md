@@ -9,6 +9,7 @@ Our hands-on approach to learning ZK proofs provides interactive and practical t
 ## General
 
 - [A beginners intro to coding Zero knowledge Proofs](https://dev.to/spalladino/a-beginners-intro-to-coding-zero-knowledge-proofs-c56)
+- [Babysnark do do dodo dodo](https://github.com/initc3/babySNARK)
 - [typescript zk](https://alysiatech.medium.com/how-to-code-a-zk-app-each-step-explained-so-you-can-create-privacy-preserving-apps-be7e92d7189d)
 - [zero knowledge with Bellman](https://hongchao.me/zksnark/)
 - [Cryptohack - hands on cryptography](https://cryptohack.org)
@@ -37,17 +38,27 @@ Our hands-on approach to learning ZK proofs provides interactive and practical t
 - [Differential fuzzing](https://www.notamonadtutorial.com/do-you-want-quality-code-learn-how-to-use-differential-fuzzers/)
 - [Zkvm step by step](https://eprint.iacr.org/2023/1032)
 - [Zk smart contract tutorial](https://medium.com/cyfrin/how-to-create-a-zk-smart-contract-cd948a673749)
+- [optimizing pairing based cryptography, montgomery arithmetic in rust](https://research.nccgroup.com/2021/06/09/optimizing-pairing-based-cryptography-montgomery-arithmetic-in-rust/)
+  - [In assembly code](https://research.nccgroup.com/2021/09/10/optimizing-pairing-based-cryptography-montgomery-multiplication-in-assembly/)
+- **Pairing over BLS12-381**
+  - [Part 1 : Fields](https://research.nccgroup.com/2020/07/06/pairing-over-bls12-381-part-1-fields/)
+  - [Part 2 : Curves](https://research.nccgroup.com/2020/07/13/pairing-over-bls12-381-part-2-curves/)
+  - [Part 3 : Pairing](https://research.nccgroup.com/2020/08/13/pairing-over-bls12-381-part-3-pairing/)
+- [An overview of ZKtooling and proof systems right now: Sep 2023](https://blog.aayushg.com/posts/zk)
 
 ## Challenges and hackathons
 
 - [Berkeley RDI ZKP-Web3 hackathon](https://zk-hacking.org/#)
 - [Zk hack puzzles](https://www.zkhack.dev/mini.html)
+- [Ingonyama ZK CTF-May 2023](https://github.com/ingonyama-zk/zkctf-2023-writeups)
+
 
 ## Rust learning resources for ZK/cryptography
 
 - [The Rust book](https://doc.rust-lang.org/book/title-page.html)
   - [rust book with interactive quizzes](https://rust-book.cs.brown.edu)
   - [The Rust book course](https://www.youtube.com/playlist?list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8)
+  - [Rust guide books](https://securrtech.medium.com/complete-guide-to-rust-zero-to-one-to-hacking-e1f4380ae95c)
 - [Comprehensive rust by google](https://google.github.io/comprehensive-rust/)
 - [Print and keep nearby - cheats.rs](https://cheats.rs)
 - [Tutorials](https://fasterthanli.me)
@@ -60,6 +71,7 @@ Our hands-on approach to learning ZK proofs provides interactive and practical t
 - [Rust learning](https://github.com/ctjhoa/rust-learning)
 - [Rust crash course](https://github.com/CleanCut/ultimate_rust_crash_course)
 - [Data engg with rust](https://datawithrust.com)
+- [Circomscribe - learn circom](https://www.zksecurity.xyz/blog/posts/circomscribe/)
 
 ## Benchmarking tools
 
@@ -71,3 +83,6 @@ Our hands-on approach to learning ZK proofs provides interactive and practical t
 - [Criterion](https://bheisler.github.io/criterion.rs/book/criterion_rs.html)
   - [Criterion introduction](https://www.notamonadtutorial.com/benchmarking-and-analyzing-rust-performance-with-criterion-and-iai/)
 - [The benchmark game](https://benchmarksgame-team.pages.debian.net/benchmarksgame/why-measure-toy-benchmark-programs.html)
+- [Zkalc](https://zka.lc/charts)
+- [zkBench](https://eprint.iacr.org/2023/1503)
+  - [Benchmarks](https://zkbench.dev)

@@ -22,3 +22,5 @@ Potential vulnerabilities and security in ZK systems
 - [Feldman Secret sharing attacks](https://www.zkdocs.com/docs/zkdocs/protocol-primitives/verifiable-secret-sharing/)
 - [Threshold signature pitfalls](https://www.jcraige.com/dangers-of-determinism-in-threshold-signatures)
 - [VSS forgery](https://www.jcraige.com/vss-forgery)
+- [Boomerang values in ZK](https://www.zksecurity.xyz/blog/posts/boomerang/)
+- [GPUz.zip Sidechannel attacks on GPUs](https://www.hertzbleed.com/gpu.zip/)

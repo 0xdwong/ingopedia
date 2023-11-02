@@ -3,7 +3,7 @@
 ## **正在建设中** 👷
 
 ## 文章回顾
-[格子密码学](https://eprint.iacr.org/2015/939.pdf)
+[格密码学](https://eprint.iacr.org/2015/939.pdf)
 
 ## 离散与连续傅里叶变换
 
@@ -21,4 +21,4 @@
 
 ## 技术
 
-- [引导](https://www.cs.cmu.edu/~odonnell/hits09/gentry-homomorphic-encryption.pdf)
+- [自举](https://www.cs.cmu.edu/~odonnell/hits09/gentry-homomorphic-encryption.pdf)
